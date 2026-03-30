@@ -1,5 +1,12 @@
-## Hi there 👋
+## 👋 Sobre mim
 
+Oi! Eu sou a Keyla 😊
+
+Sou professora de formação e estou estudando Desenvolvimento de Sistemas na ETEC de São Sebastião.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keylarosado/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keylarosado@gmail.com)
 <!--
 **keylarosado/keylarosado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
